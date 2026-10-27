@@ -1,0 +1,10 @@
+def my_intro():
+  print("="*45)
+   print("Hello! I am Dinara Bilal")
+   print("Aspiring Python Developer | Outreachy Applicant")
+ print("="*45)
+ print("Currently learning: Python, Git & GitHub")
+ print("Goal: Contribution to Open Source and grow as a developer")
+ print("Location: Pakistan")
+ print("="*45)
+my_intro()
