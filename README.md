@@ -15,7 +15,9 @@ This repository contains my 9 beginner Python projects built during my learning 
     **Language:** Python 3
    **Author:** Dinara Bilal
    **Goal:** Learning Python fundamentals for Open Source Contribution(Outreachy)
-  ## About Me
+  ## My Journey
    I am a BS IT student from Pakistan.
-   Now I am learning Documentation for Open Source.
+   I started with python to understand how code works.
+   So I am using that understanding to write clear and simple Documentation for beginners.
+   Now I am learning Documentation for Open Source. 
    Thanks for visiting!
